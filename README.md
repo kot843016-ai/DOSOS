@@ -30,7 +30,9 @@ DOSOS is actively developed. Features and interfaces may change.
 
 ## Building
 
-Build instructions will be added as the project develops.
+DOSOS is assembled using [FASM](https://flatassembler.net/).
+
+No C compiler or additional build tools are required.
 
 ## License
 
