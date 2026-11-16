@@ -17,7 +17,7 @@ The project aims to create a lightweight, independent operating system with a DO
 
 ## Project Status
 
-**Version:** 0.1  
+**Stage:** 6  
 **Status:** Experimental / Early Development
 
 DOSOS is actively developed. Features and interfaces may change.
